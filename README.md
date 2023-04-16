@@ -37,8 +37,8 @@ Plot the necessary graphs for analysis. A custom prediction is done to test the 
 
 ## PROGRAM
 ```
-Developed by: Swetha.K.P
-Registration no.:212220230053
+Developed by: Ganesh p
+Registration no.:212220040112
 
 import matplotlib.pyplot as plt
 import pandas as pd
